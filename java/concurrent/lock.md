@@ -1,8 +1,8 @@
 # 锁
 参考资料:
 
-[自旋锁、排队自旋锁、MCS锁、CLH锁](http://coderbee.net/index.php/concurrent/20131115/577/comment-page-1)
-[http://www.tuicool.com/articles/2INzUb](http://www.tuicool.com/articles/2INzUb)
+- [自旋锁、排队自旋锁、MCS锁、CLH锁](http://coderbee.net/index.php/concurrent/20131115/577/comment-page-1)
+- [http://www.tuicool.com/articles/2INzUb](http://www.tuicool.com/articles/2INzUb)
 
 互斥锁，自旋锁，排队自旋锁，CLH 锁，MCS 锁
 

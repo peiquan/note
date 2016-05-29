@@ -3,6 +3,6 @@
 
 ## Java
 ### concurrency
-[互斥锁与自旋锁](./java/concurrency/lock.md)
-[AbstractQueuedSynchronizer](./java/concurrency/lock.md/AbstractQueuedSynchronizer.md)
-[unsafe](./java/concurrency/lock.md/unsafe.md)
+- [互斥锁与自旋锁](https://github.com/peiquan/note/blob/master/java/concurrent/lock.md)
+- [AbstractQueuedSynchronizer](https://github.com/peiquan/note/blob/master/java/concurrent/AbstractQueuedSynchronizer.md)
+- [unsafe](https://github.com/peiquan/note/blob/master/java/concurrent/unsafe.md)
