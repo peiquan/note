@@ -16,7 +16,7 @@ else
 fi
 
 # change oh-my-zsh prompt
-if [[ ! -d "/home/$currentUsername/.oh-my-zsh/custom/themes" ]]; then
+if [ ! -d "/home/$currentUsername/.oh-my-zsh/custom/themes" ]; then
   mkdir "/home/$currentUsername/.oh-my-zsh/custom/themes"
 fi
 if [ ! -f "/home/$currentUsername/.oh-my-zsh/custom/themes/robbyrussell.zsh-theme" ]; then
